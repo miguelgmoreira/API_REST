@@ -26,7 +26,7 @@ Os dados no Rest são chamados de resources (recursos).
 
 ### 6 NECESSIDADES (constraints) para ser RESTFUL
 
-- _Interface uniforme_: visa simplificar e padronizar a interação entre os componentes do sistema, promovendo uma arquitetura mais escalável e interoperável. Aqui estão os principais aspectos da Interface Uniforme:
+- _Interface uniforme_: visa simplificar e padronizar a interação entre os componentes do sistema, promovendo uma arquitetura mais escalável e interoperável.
 
 - _Client-server_: Separação do cliente e do armazenamento de dados (servidor), dessa forma, poderemos ter uma portabilidade do nosso sistema, possibilitando a comunicação com diferentes clients.
 
